@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulla Jaseem</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img alt="Coder GIF" align=”right” width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+
+<img alt="Coder GIF" align="right" width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jassimjasi&label=Profile%20views&color=0e75b6&style=flat" alt="jassimjasi" /> </p>
 
