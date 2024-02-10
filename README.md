@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdulla Jaseem</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img alt="Coder GIF" align="right" width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jassimjasi&label=Profile%20views&color=0e75b6&style=flat" alt="jassimjasi" /> </p>
 
-- 🔭 I’m currently working on [BookPad](github.com/JassimJasi/BookPad)
+- 🔭 I’m currently working on [Impacteers](https://www.impacteers.com/)
 
-- 🌱 I’m currently learning **Redux Toolkitand, Next.js**
+- 🌱 I’m currently Working **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://jaseem.vercel.app/](https://jaseem.vercel.app/)
 
