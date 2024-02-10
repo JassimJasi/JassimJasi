@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Impacteers](https://www.impacteers.com/)
 
-- 🌱 I’m currently Working **Next.js**
+- 🌱 I’m currently specialized in **Next.js, Go, and Java Spring Boot & Node.js**
 
 - 👨‍💻 All of my projects are available at [https://jaseem.vercel.app/](https://jaseem.vercel.app/)
 
-- 💬 Ask me about **React, MERN**
+- 💬 Ask me about **React, MERN, Next.js**
 
 - 📫 How to reach me **jassimsadnamk@gmail.com , jaseem.vercel.app/**
 
